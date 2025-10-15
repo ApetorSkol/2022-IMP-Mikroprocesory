@@ -1,0 +1,3 @@
+../device/system_MKL27Z644.c:99:6:SystemInit	8	static
+../device/system_MKL27Z644.c:118:6:SystemCoreClockUpdate	16	static
+../device/system_MKL27Z644.c:145:29:SystemInitHook	8	static

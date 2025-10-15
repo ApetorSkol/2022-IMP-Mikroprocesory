@@ -1,0 +1,13 @@
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:456:20:CLOCK_SetLpuart0Clock	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:466:20:CLOCK_SetLpuart1Clock	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:476:20:CLOCK_SetTpmClock	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:486:20:CLOCK_SetFlexio0Clock	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:514:20:CLOCK_SetClkOutClock	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:524:20:CLOCK_SetRtcClkOutClock	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:616:20:CLOCK_SetSimSafeDivs	8	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_clock.h:774:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\Users\matej\Documents\MCUXpressoIDE_11.6.1_8255\workspace\skuska\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:60:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:148:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:235:6:BOARD_BootClockVLPR	8	static
