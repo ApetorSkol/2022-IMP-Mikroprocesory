@@ -1,0 +1,18 @@
+menu "BLINK CONFIG GPIO"
+
+    config BLINK_GPIO
+        int "Blink GPIO number"
+        range 2 14
+        default 2
+        help
+            GPIO number (IOxx) on the Wemos board where the LED is connected.
+            Some GPIOs are used for other purposes and cannot be used to LED.
+
+    config BLINK_PERIOD
+        int "Blink period in ms"
+        range 200 3600000
+        default 500
+        help
+            Define the blinking period in milliseconds.
+
+endmenu
